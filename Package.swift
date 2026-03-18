@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppSecurityKit",
-            url: "https://github.com/kriskannan08/appSecurityKit_iOS/releases/download/v1.1.1/AppSecurityKit.xcframework.zip",
-            checksum: "71b893c8b477e1ac92db5db79e1c1888b296b65f8f0c089002df1789b3fc047d"
+            url: "https://github.com/kriskannan08/appSecurityKit_iOS/releases/download/v1.1.2/AppSecurityKit.xcframework.zip",
+            checksum: "cb9d4f6a0fc654062b5be19e7764580cb67c7f54de5de9f31be8e46b92543925"
         )
     ]
 )
